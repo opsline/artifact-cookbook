@@ -1,3 +1,7 @@
+## v.1.13.0
+
+* Opsline updates
+*
 ## v.1.11.3
 
 * [#104](https://github.com/RiotGames/artifact-cookbook/pull/104) Allow ssl_verify to exist in the data bag and be honored
